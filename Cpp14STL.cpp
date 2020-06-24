@@ -1,8 +1,9 @@
-#include <iostream>
-using namespace std;
+#include "cpp14stl.h"
 
 int main()
 {
-    cout << "C++14 STL" << endl;
+    Projects_01 prj;
+    prj.m01_01();
+
     return 0;
 }
