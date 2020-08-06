@@ -21,6 +21,9 @@
     <ClCompile Include="m01_01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="m02_01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cpp14stl.h">

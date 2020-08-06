@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClCompile Include="Cpp14STL.cpp" />
     <ClCompile Include="m01_01.cpp" />
+    <ClCompile Include="m02_01.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cpp14stl.h" />
